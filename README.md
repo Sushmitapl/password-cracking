@@ -1,3 +1,5 @@
+## Only for Educational Purpose ##
+
 # Linux Password Cracking Tool
 The tool can be used to crack Linux Password File using dictionary method. It uses multithreading to perform the password search thus, improving the efficiency of the attack.
 
